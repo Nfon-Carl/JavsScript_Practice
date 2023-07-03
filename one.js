@@ -35,10 +35,3 @@ function fizzBuzz() {
   count++;
   console.log(a);
 }
-
-fizzBuzz();
-fizzBuzz();
-fizzBuzz();
-fizzBuzz();
-fizzBuzz();
-fizzBuzz();
